@@ -9,7 +9,7 @@ export function Home(){
         console.log("true");
     
         try {
-          let url = 'https://nodes-qsv1v9mym-anjutechs-projects.vercel.app'; // URL for your Node.js backend
+          let url = 'https://nodes-gamma.vercel.app/backend'; // URL for your Node.js backend
     
                     
           // Fetch the users with query parameters
